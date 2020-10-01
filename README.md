@@ -7,7 +7,7 @@ Using an SDL2 supported game controller, inputs are normalized and converted to 
 - An SDL2 supported game controller is also required, and the SDL2 library must be pre-installed
 - A CAN interface adapter, such as the [Kvaser Leaf Light](https://www.kvaser.com), is also necessary in order to connect the API to the controller CAN network via USB
 
-This application has been tested with a Logitech F310 gamepad and a wired Xbox 360 controller, but should work with any SDL2 supported game controller. Controllers with rumble capabilities will provide feedback when OSCC is enabled or disabled.
+This application has been tested with a Logitech F310 gamepad and a wired Xbox 360 controller, but should work with any SDL2 supported game controller. Controllers with rumble capabilities will provide feedback when car control is enabled or disabled.
 
 [Xbox 360 Wired Controller](https://www.amazon.com/dp/B004QRKWLA)
 
